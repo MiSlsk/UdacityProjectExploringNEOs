@@ -2,4 +2,4 @@
 # Byte-compiled
 __pycache__/
 data/*
-*.py*Zone.Identifier
+*Zone.Identifier
